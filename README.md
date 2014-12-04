@@ -31,4 +31,4 @@
 
 VISIT 
 ----
-  [Webcam Image Capture Demo](webcamimagecapture.herokuapp.com)
+  [Webcam Image Capture Demo](http://webcamimagecapture.herokuapp.com)
